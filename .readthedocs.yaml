@@ -36,4 +36,3 @@ python:
       # extra_requirements:
       #   - docs
       #pip install .[docs]
-    - requiements: docs/requirements.txt
